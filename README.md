@@ -9,7 +9,7 @@
   <img align="center" alt="nkGo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
   <img align="center" alt="nkTs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="nkTs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/947724414198353961/1022889095598461060/frieren.jpg">
+  <img align="right" alt="pic" height="150" style="border-radius:50%;" src="https://cdn.discordapp.com/attachments/947724414198353961/1022889095598461060/frieren.jpg">
 </div>
   
   ##
