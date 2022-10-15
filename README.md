@@ -23,4 +23,4 @@
 
 - 📚 Teacher Assitant of Distribuited Systems
 - 🔭 Learning Technologies
-- 💼 Full Stack Developer - University of Chile
+- 💼 Full Stack Developer
