@@ -18,6 +18,4 @@
 </div>
 
 
-- 📚 Teacher Assitant of Distribuited Systems
-- 🔭 Learning Technologies
 - 💼 Full Stack Developer
