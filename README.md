@@ -18,4 +18,5 @@
 </div>
 
 
-- 💼 Full Stack Developer
+- 💼 Full Stack
+- 💼 Devops
